@@ -1,8 +1,11 @@
 {
-  "name": "matatirosoln/fm-cloud-authentication",
+  "name": "pbs-ie/fm-cloud-authentication",
   "description": "Authenticate against FileMaker cloud for Data API or Admin API access",
   "type": "library",
   "authors": [
+    {
+      "name": "Nischal Abraham"
+    },
     {
       "name": "Steve Winter",
       "email": "steve@msdev.nz"
